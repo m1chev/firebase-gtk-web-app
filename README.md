@@ -1,3 +1,3 @@
-# firebase-gtk-web-checkpoint1-myoage
+# firebase-gtk-web-app
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/firebase-gtk-web-checkpoint1-myoage)
+## This is a simple app for an event.
