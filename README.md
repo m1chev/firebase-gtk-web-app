@@ -7,4 +7,6 @@ The backend and hosting are on Firebase.
 
 It is easy to access and check the app using the link :+1:
 
-![](images/overview.png)
+https://meet1ng.firebaseapp.com/
+
+![https://meet1ng.firebaseapp.com](images/overview.png)
